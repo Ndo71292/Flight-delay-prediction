@@ -12,3 +12,5 @@ Tunisair is the flag carrier airline of Tunisia. Formed in 1948, it operates sch
 
 ### Evaluation
 The metric used for this challenge is Root Mean Square Error.
+
+Click on the following link to view the code (https://github.com/Ndo71292/Flight-delay-prediction/blob/main/Flight%20%20delay%20prediction%20.ipynb)
